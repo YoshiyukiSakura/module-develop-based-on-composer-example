@@ -1,0 +1,13 @@
+{
+    "name": "yoshiyuki/package-json",
+    "description": "a test package",
+    "type": "e.g. library",
+    "authors": [
+        {
+            "name": "yoshiyuki",
+            "email": "634554815@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

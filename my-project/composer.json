@@ -1,0 +1,14 @@
+{
+    "name": "yoshiyuki/my-project",
+    "description": "a project for learning composer",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "yoshiyuku",
+            "email": "6345554815@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
